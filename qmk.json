@@ -3,6 +3,7 @@
     "build_targets": [
         ["keebio/iris/rev4", "kvnknowles"],
         ["crkbd/rev1", "kvnknowles"],
-        ["crkbd/rev1", "markstos"]
+        ["crkbd/rev1", "markstos"],
+        ["keebio/iris/rev6", "kvnknowles"]
     ]
 }
